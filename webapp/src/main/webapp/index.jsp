@@ -31,7 +31,7 @@
     <p>Already have an account? No worries :D <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Made by Andre Potes, during Devops Project demo </h1>
+   <h1> Made by Andre Potes, during Devops Project demo. It was great! </h1>
 
   
 </form>
